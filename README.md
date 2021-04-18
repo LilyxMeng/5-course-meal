@@ -1,4 +1,4 @@
-# 5-course-meal
+# ICS3U Project - 5 Course Meal
 
 Relatively _simple_ program coded for a school project.
 
